@@ -66,6 +66,8 @@ Inside app.py, update this line:
 API_KEY = "your_abstract_api_key"
 You can get a free key from https://www.abstractapi.com
 
+---
+
 ## Author
 Built by Nagendra U S
 
