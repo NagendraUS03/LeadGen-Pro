@@ -6,7 +6,7 @@
 
 ## Features
 
-Enter any company domain  
+Enter any company domain
 Extract:
 - IP Address  
 - Website Title  
